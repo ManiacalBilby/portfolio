@@ -1,0 +1,15 @@
+
+
+body {
+    font-family: "Crimson Text", serif;
+    background-color: rgb(233, 176, 19);
+}
+header {
+    display: flex;
+    justify-content: center;
+    background-color: teal;
+}
+a {
+    color: teal;
+    text-decoration: none;
+}
